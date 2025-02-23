@@ -442,18 +442,27 @@
             ]
         },
         "4631": {
-            "name": "Airbus a330-900neo",
+             "name": "Airbus A330-900",
             "liveries": [
+                {
+                    "name": "Cathay Pacific (New Design)",
+                    "texture": [
+                        
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a330-900neo/Cathay_New.png"
+                    ],
+                    "credits": ""
+                },
+                {
+                    "name": "Cathay Pacific (Old Design)",
+                    "texture": [
+                       
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a330-900neo/Cathay_old.png"
+                    ],
+                    "credits": ""
+                }
             ],
             "labels": [
-                "Texture"
-            ]
-        },
-        "4646": {
-            "name": "Airbus a321neo",
-            "liveries": [
-            ],
-            "labels": [
+               
                 "Texture"
             ]
         },
