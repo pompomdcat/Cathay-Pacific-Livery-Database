@@ -261,16 +261,24 @@
             "name": "Airbus a350-1000",
             "liveries": [
                 {
-                    "name": "Cathay Cargo ",
+                    "name": "Cathay Cargo",
                     "texture": [
-                        "/models/aircraft/premium/a350/specular.jpg",
-                        "https://github.com/kolos26/GEOFS-LiverySelector/blob/main/liveries/airbus_a350-1000/Cathay_Cargo_A350-1000.png"
+                      
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a350-1000/Cathay_Cargo_A350-1000.png"
                     ],
-                    "credits": ""
+                    "credits": "Luca B"
+                },
+                {
+                    "name": "Cathay Pacific",
+                    "texture": [
+                    
+                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a350-1000/Cathay_Pacific_A350-1000.png"
+                    ],
+                    "credits": "Luca B"
                 }
             ],
             "labels": [
-                "Specular shader",
+                
                 "Texture"
             ]
         },
@@ -423,7 +431,7 @@
                     "name": "A350-900",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
-                        "https://github.com/kolos26/GEOFS-LiverySelector/blob/main/liveries/airbus_a350-900/cathaypacific.jpg"
+                        "https://i.ibb.co/RGHpR6WB/cathaypacific.jpg"
                     ],
                     "credits": ""
                 }
