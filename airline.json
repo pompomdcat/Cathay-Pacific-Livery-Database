@@ -1,7 +1,7 @@
 {
-    "name": "",
-    "color": "",
-    "bgcolor": "",
+    "name": "Cathay Pacific [CPA] ~",
+    "color": "afc7cc",
+    "bgcolor": "006b6e",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
@@ -428,7 +428,7 @@
             "name": "Airbus a350-900",
             "liveries": [
                 {
-                    "name": "A350-900",
+                    "name": "Cathay Pacific",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
                         "https://i.ibb.co/RGHpR6WB/cathaypacific.jpg"
@@ -491,8 +491,46 @@
             ]
         },
         "25": {
-            "name": "Boeing b777-300ER",
-            "liveries": [
+         "liveries": [
+                {
+                    "name": "Cathay Pacific (New Design)",
+                    "texture": [
+                          "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/cathaypacific.jpg"
+                    ],
+                    "credits": ""
+                },
+                {
+                    "name": "Cathay Pacific (Old Design)",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/cathaypacificold.jpg"
+                    ],
+                    "credits": ""
+                },
+                {
+                    "name": "Cathay Pacific (B-HNO)",
+                    "texture": [
+                      "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/cathaypaciic.jpg"
+                    ],
+                    "credits": ""
+                }
+              {
+                    "name": "Cathay Pacific (Asia's World City livery)",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/cathay777asiasworldcity.jpg"
+                    ],
+                    "credits": "Androway"
+                },
+                                    "name": "Cathay Pacific (Spirit of Hong Kong livery)",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/Cathay_b777_Spirit_HK_5.png"
+                    ],
+                    "credits": "ChengyuWordle [Sino Wings Group]"
+                }
             ],
             "labels": [
                 "Specular shader",
