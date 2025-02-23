@@ -491,6 +491,7 @@
             ]
         },
         "25": {
+             "name": "Boeing B777-300ER",
          "liveries": [
                 {
                     "name": "Cathay Pacific (New Design)",
@@ -603,6 +604,13 @@
         "5086": {
             "name": "Airbus a321-211",
             "liveries": [
+                  {
+                    "name": "Cathay Pacific",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Spice9/stuff2/main/17luca_cathpaci.jpg"
+                    ],
+                    "credits": "luca b"
+                },
             ],
             "labels": [
                 "Texture"
@@ -671,6 +679,54 @@
         "5193": {
             "name": "Boeing b747-8I",
             "liveries": [
+                  {
+                    "name": "Cathay Pacific Cargo (0ld Design)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/cathaycargoold.png",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
+                    ],
+                    "credits": "Air France Heavy"
+                },
+                {
+                     "name": "Cathay Pacific Cargo (new design)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/cathaypacificcargo.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
+                    ],
+                    "credits": "747lover"
+                  
+                },
+                {
+                      "name": "Cathay Cargo",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/cathaycargo.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
+                    ],
+                    "credits": "747lover"
+                },
+              {
+                   "name": "Cathay Pacific Cargo (Hong Kong Trader livery)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/cathaypacifichongkongtrader.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
+                    ],
+                    "credits": "747lover"
+                },
+   "name": "Cathay Pacific (Asia World City livery)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/cathay_pacific_asia_world_city_747-8.png",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
+                    ],
+                    "credits": "Lego and Avgeek YT & Marcioart121BR"
+                },
+                {
+                    "name": "Cathay Pacific (classic design)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/cathay_pacific_old_livery_747-8i.png",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
+                    ],
+                    "credits": "Lego and Avgeek YT & QKG_FS54VZ_JPN_1"
+                },
             ],
             "labels": [
                 "Texture",
